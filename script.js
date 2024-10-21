@@ -229,7 +229,7 @@ function convert() {
         break;
         
         case 'N':
-        convertedText += 'Ⓝ';
+        convertedText2 += 'Ⓝ';
         break;
         
         case 'O':
