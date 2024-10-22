@@ -1,5 +1,5 @@
 Copyright © Sapirrior 2024
-Permission is granted to:
+# Permission is granted to:
  * View: The code can be viewed and studied for educational purposes.
 Restrictions:
  * Modification: The code cannot be modified, altered, or adapted in any way.
